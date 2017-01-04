@@ -34,11 +34,14 @@ framework:
     assets: ~
     php_errors:
         log: true
-
+    framework:
+        translator: ~
 # Twig Configuration
 twig:
     debug:            "%kernel.debug%"
     strict_variables: "%kernel.debug%"
+    form:
+        resources: ['bootstrap_3_layout.html.twig']
 
 # Doctrine Configuration
 doctrine:
