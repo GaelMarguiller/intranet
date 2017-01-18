@@ -45,3 +45,8 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+intranet/app/config/config.yml
+intranet/src/IntranetBundle/Controller/DefaultController.php
+*.php
+intranet/src/IntranetBundle/Resources/config/services.yml
+intranet/app/Resources/views/base.html.twig
