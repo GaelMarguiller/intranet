@@ -50,3 +50,5 @@ intranet/src/IntranetBundle/Controller/DefaultController.php
 *.php
 intranet/src/IntranetBundle/Resources/config/services.yml
 intranet/app/Resources/views/base.html.twig
+*.js
+intranet/node_modules/commander/History.md

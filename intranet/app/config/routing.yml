@@ -1,3 +1,8 @@
+intranet:
+    resource: "@IntranetBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 user:
     resource: "@UserBundle/Controller/"
     type:     annotation
